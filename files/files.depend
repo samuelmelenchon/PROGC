@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641467167 source:d:\progrc\files\file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1641467167 d:\progrc\files\file.h
+
+1641467168 source:d:\progrc\files\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+

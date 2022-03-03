@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640342153 source:c:\users\admin\desktop\progrc\boucles\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1640342879 source:c:\users\admin\desktop\progrc\variables\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+

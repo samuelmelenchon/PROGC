@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641201817 source:d:\progrc\airerectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aire.h"
+
+1641201626 d:\progrc\airerectangle\aire.h
+	<stdio.h>
+

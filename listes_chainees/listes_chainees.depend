@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641376934 source:d:\progrc\listes_chainees\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste_chainee.h"
+
+1641376465 d:\progrc\listes_chainees\liste_chainee.h
+
+1641376865 source:d:\progrc\listes_chainees\liste_chainee.c
+	<stdio.h>
+	<stdlib.h>
+	"liste_chainee.h"
+
